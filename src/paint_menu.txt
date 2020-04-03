@@ -1,0 +1,65 @@
+ListBegin
+        Side
+            right
+        ButtonBegin
+            Position
+                -1 1
+            Color
+                0.3 0.3 0.3
+            HightColor
+                0.4 0.4 0.4
+            Name
+                exit
+        ButtonEnd
+        ButtonBegin
+            Position
+                -0.7 1
+                Color
+                    0.3 0.3 0.3
+                HightColor
+                    0.4 0.4 0.4
+            Name
+                clear
+        ButtonEnd
+        ButtonBegin
+            Position
+                -0.4 1
+                Color
+                    0.3 0.3 0.3
+                HightColor
+                    0.4 0.4 0.4
+            Name
+                brush
+        ButtonEnd
+        ButtonBegin
+            Position
+                -0.1 1
+                Color
+                    0.3 0.3 0.3
+                HightColor
+                    0.4 0.4 0.4
+            Name
+                rubber
+        ButtonEnd
+        ButtonBegin
+            Position
+                0.2 1
+                Color
+                    0.3 0.3 0.3
+                HightColor
+                    0.4 0.4 0.4
+            Name
+                change_r
+        ButtonEnd
+        ButtonBegin
+            Position
+                0.5 1
+                Color
+                    0.3 0.3 0.3
+                HightColor
+                    0.4 0.4 0.4
+            Name
+                pallete
+        ButtonEnd
+
+ListEnd
