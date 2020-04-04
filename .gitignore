@@ -1,4 +1,5 @@
 # Prerequisites
+*.pro.user*
 *.d
 
 # Compiled Object files
