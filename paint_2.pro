@@ -18,7 +18,7 @@ SOURCES += \
     ./src/cell_cl.cpp
 
 DISTFILES += \
-    ./src/paint_menu.txt
+    ./paint_menu.txt
 
 HEADERS += \
     ./src/brush_cl.h \
